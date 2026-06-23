@@ -36,3 +36,8 @@ The answer is usually a resounding "yes". I want to lend a helping hand to this 
 Built by Darius Lane as a portfolio demonstration 
 of data analyst capabilities in regulated 
 manufacturing environments.
+
+## Processed Data
+- Processed spices & herbs compliance dataset: [data/processed/spices_herbs_compliance_2023.csv](data/processed/spices_herbs_compliance_2023.csv)
+
+See the data-specific README: [data/processed/README.md](data/processed/README.md)
